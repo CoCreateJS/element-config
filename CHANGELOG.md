@@ -1,3 +1,12 @@
+## [1.12.5](https://github.com/CoCreate-app/CoCreate-element-config/compare/v1.12.4...v1.12.5) (2026-07-11)
+
+
+### Bug Fixes
+
+* bump package versions ([e4f940e](https://github.com/CoCreate-app/CoCreate-element-config/commit/e4f940eabc08ee3f0bd35a05044d627b613e00d4))
+* removed post install and add add packages to apprved list ([6e39248](https://github.com/CoCreate-app/CoCreate-element-config/commit/6e39248270f3e8690ad9b48ec74c391905d879bb))
+* semantic version handling ([e9c0e95](https://github.com/CoCreate-app/CoCreate-element-config/commit/e9c0e9512099a3307e5e996a2a8e04a9d05412f7))
+
 ## [1.12.4](https://github.com/CoCreate-app/CoCreate-element-config/compare/v1.12.3...v1.12.4) (2026-01-19)
 
 
