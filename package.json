@@ -37,15 +37,9 @@
   "main": "./src/index.js",
   "dependencies": {
     "@cocreate/observer": "^1.23.0",
-    "@cocreate/selection": "^1.18.0"
+    "@cocreate/utils": "^1.54.0"
   },
   "devDependencies": {
     "@cocreate/webpack": "^1.9.0"
-  },
-  "allowScripts": {
-    "@cocreate/observer@1.19.0": true,
-    "@cocreate/selection@1.14.3": true,
-    "@cocreate/utils@1.42.2": true,
-    "@cocreate/webpack@1.4.3": true
   }
 }
