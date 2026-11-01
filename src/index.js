@@ -69,6 +69,11 @@ function getElementConfig(element) {
     return elementConfig.reverse();
 }
 
+/**
+ *
+ * @public
+ * @environment client
+ */
 export function checkElementConfig(element, options, elementConfig) {
     let configedEl;
     if (!elementConfig) {
@@ -113,6 +118,11 @@ export function checkElementConfig(element, options, elementConfig) {
     }
 }
 
+/**
+ *
+ * @public
+ * @environment client
+ */
 export function* configMatch(elementConfig, element) {
     for (let config of elementConfig) {
         // if (!Array.isArray(config.selector))
@@ -171,3 +181,42 @@ observer.init({
 init();
 
 export default { checkElementConfig, configMatch };
+
+/**
+ *
+ * @name config
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ *
+ * @name config-query
+ * @kind member
+ * @attribute
+ * @environment client
+ */
+
+/**
+ * A simple element-config component in vanilla javascript. Easily configured using HTML5 attributes and/or JavaScript API.
+ *
+ * @module element-config
+ * @environment client
+ */
+
+/**
+ * Declarative selectors recognized by this module.
+ *
+ * @name declarative-selectors
+ * @kind member
+ * @selectors
+ * @environment client
+ * @example
+ * ```json
+ * [
+ *   "[config-query]",
+ *   "config"
+ * ]
+ * ```
+ */
