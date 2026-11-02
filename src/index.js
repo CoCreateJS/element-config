@@ -185,16 +185,14 @@ export default { checkElementConfig, configMatch };
 /**
  *
  * @name config
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
 /**
  *
  * @name config-query
- * @kind member
- * @attribute
+ * @kind attribute
  * @environment client
  */
 
