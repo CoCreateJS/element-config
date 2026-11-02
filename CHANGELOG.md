@@ -1,3 +1,26 @@
+# [2.0.0](https://github.com/CoCreateJS/element-config/compare/v1.13.2...v2.0.0) (2026-11-02)
+
+
+### Bug Fixes
+
+* add Deno specific entries to .gitignore ([744fd72](https://github.com/CoCreateJS/element-config/commit/744fd72e45f49b11804d03eca37c7419a2591ae4))
+* bump [@cocreate](https://github.com/cocreate) dependencies ([67aa9bd](https://github.com/CoCreateJS/element-config/commit/67aa9bde9af976ad86c0a12617540b3890e99b4b))
+* bump versions ([c0aae99](https://github.com/CoCreateJS/element-config/commit/c0aae99c3762a4e13c72625b5d5644fbc4c6ca37))
+* bump versions ([13d0ffd](https://github.com/CoCreateJS/element-config/commit/13d0ffdb7802b3442386d748ef4257ab91b8b714))
+* remove trailing slash from node_modules entry in .gitignore ([e2ae83b](https://github.com/CoCreateJS/element-config/commit/e2ae83bf5646396c0ba0dc7456447fd8252ed142))
+* update git url ([a57affd](https://github.com/CoCreateJS/element-config/commit/a57affd66a69180845ba1829c8c840ccafdb755d))
+* update GitHub Actions to use latest versions and sync package.json description ([6a77cfb](https://github.com/CoCreateJS/element-config/commit/6a77cfbf74ae7be263428e3ff98c0c0be0637dd0))
+
+
+### Features
+
+* align CoCreate repository and package naming ([6c0c852](https://github.com/CoCreateJS/element-config/commit/6c0c852b7567be43e427ebb9c02821d3d244b79d))
+
+
+### BREAKING CHANGES
+
+* consumers must use the renamed CoCreate package and repository identities; the previous prefixed names are no longer supported.
+
 ## [1.13.2](https://github.com/CoCreateJS/CoCreate-element-config/compare/v1.13.1...v1.13.2) (2026-07-19)
 
 
