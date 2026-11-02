@@ -5,8 +5,8 @@ A simple element-config component in vanilla javascript. Easily configured using
 ![min file size in bytes](https://img.badgesize.io/https://cdn.CoCreateJS.com/element-config/latest/CoCreate-element-config.min.js?style=flat-square&label=minified&color=orange)
 ![gzip file size in bytes](https://img.badgesize.io/https://cdn.CoCreateJS.com/element-config/latest/CoCreate-element-config.min.js?compression=gzip&style=flat-square&label=gzip&color=yellow)
 ![brotlifile size in bytes](https://img.badgesize.io/https://cdn.CoCreateJS.com/element-config/latest/CoCreate-element-config.min.js?compression=brotli&style=flat-square&label=brotli)
-![GitHub latest release](https://img.shields.io/github/v/release/CoCreate-app/CoCreate-element-config?style=flat-square)
-![GitHub](https://img.shields.io/github/license/CoCreate-app/CoCreate-element-config?style=flat-square)
+![GitHub latest release](https://img.shields.io/github/v/release/CoCreateJS/element-config?style=flat-square)
+![GitHub](https://img.shields.io/github/license/CoCreateJS/element-config?style=flat-square)
 ![GitHub](https://img.shields.io/static/v1?style=flat-square&label=&message=Hiring&color=blueviolet)
 
 
@@ -51,13 +51,13 @@ $ yarn install @cocreate/element-config
 
 # Announcements
 
-All updates to this library are documented in our [CHANGELOG](https://github.com/CoCreateJS/CoCreate-element-config/blob/master/CHANGELOG.md) and [releases](https://github.com/CoCreateJS/CoCreate-element-config/releases). You may also subscribe to email for releases and breaking changes.
+All updates to this library are documented in our [CHANGELOG](https://github.com/CoCreateJS/element-config/blob/master/CHANGELOG.md) and [releases](https://github.com/CoCreateJS/element-config/releases). You may also subscribe to email for releases and breaking changes.
 
 <a name="roadmap"></a>
 
 # Roadmap
 
-If you are interested in the future direction of this project, please take a look at our open [issues](https://github.com/CoCreateJS/CoCreate-element-config/issues) and [pull requests](https://github.com/CoCreateJS/CoCreate-element-config/pulls). We would love to hear your feedback.
+If you are interested in the future direction of this project, please take a look at our open [issues](https://github.com/CoCreateJS/element-config/issues) and [pull requests](https://github.com/CoCreateJS/element-config/pulls). We would love to hear your feedback.
 
 <a name="about"></a>
 
@@ -73,9 +73,9 @@ CoCreate-element-config is maintained and funded by CoCreate. The names and logo
 
 # How to Contribute
 
-We encourage contribution to our libraries (you might even score some nifty swag), please see our [CONTRIBUTING](https://github.com/CoCreateJS/CoCreate-element-config/blob/master/CONTRIBUTING.md) guide for details.
+We encourage contribution to our libraries (you might even score some nifty swag), please see our [CONTRIBUTING](https://github.com/CoCreateJS/element-config/blob/master/CONTRIBUTING.md) guide for details.
 
-We want this library to be community-driven, and CoCreate led. We need your help to realize this goal. To help make sure we are building the right things in the right order, we ask that you create [issues](https://github.com/CoCreateJS/CoCreate-element-config/issues) and [pull requests](https://github.com/CoCreateJS/CoCreate-element-config/pulls) or merely upvote or comment on existing issues or pull requests.
+We want this library to be community-driven, and CoCreate led. We need your help to realize this goal. To help make sure we are building the right things in the right order, we ask that you create [issues](https://github.com/CoCreateJS/element-config/issues) and [pull requests](https://github.com/CoCreateJS/element-config/pulls) or merely upvote or comment on existing issues or pull requests.
 
 We appreciate your continued support, thank you!
 
@@ -83,4 +83,4 @@ We appreciate your continued support, thank you!
 <a name="license"></a>
 # License
 
-[The MIT License (MIT)](https://github.com/CoCreateJS/CoCreate-element-config/blob/master/LICENSE)
+[The MIT License (MIT)](https://github.com/CoCreateJS/element-config/blob/master/LICENSE)
